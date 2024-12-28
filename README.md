@@ -1,4 +1,4 @@
-# ANE_Tigray_HR_Data-using-MATLAB-Programming-
+# ANE Tigray HR Data using MATLAB Programming-
 
 Project Overview
 
