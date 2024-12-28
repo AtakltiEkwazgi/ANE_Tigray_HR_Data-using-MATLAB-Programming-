@@ -13,5 +13,7 @@ Requirements • MATLAB Version: Ensure MATLAB 2029 or above is installed to run
 Usage Instructions
 
 1.Clone or download the repository to your local machine.
+
 2.Open the MATLAB file in MATLAB (2029 or later).
+
 3.Execute the file. Some report data includes visual figures; please wait for the figures to load and display.
